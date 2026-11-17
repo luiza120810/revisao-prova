@@ -1,0 +1,16 @@
+* {
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    font-family: "Redaction 50", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(153, 177, 255);
+    border: 1px solid;
+    border-radius: 10px 10px 0 0;
+    flex-direction: column;
+
+}
